@@ -1,0 +1,19 @@
+body {
+bacground-color: #FFFFE0 ; /*warna kuning cerah*/
+font-family:arial,sans-serif;/* jenis huruf yang bersih dan mudah dibaca */
+color : #191970;/*  warna teks utama (biru gelap) */
+}
+
+.kartu-profil
+widht: 300px;
+margin: 50px auto; /*50px jarak atas/bawah, auto menengahakan kiri/kanan*/ 
+padding: 20px;
+bacground-color: white;
+border-radius: 15px; /*membuat sudut menjadi melengkung*/
+box-shadow: 0 4px 8px rgba (0,0,0,0.1); /*Efek bayangan*/
+text-align: center ;/*menengahkan semua teks di dalam kartu */
+}
+.kartu-profil img }
+widht: 150Px;
+border-radius: 50%; /*trik untuk membuat gambar persegi menjadi lingkaran sempurna*/
+}
